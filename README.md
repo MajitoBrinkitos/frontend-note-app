@@ -52,7 +52,7 @@ Instructions on how to install and set up the project.
 
 # Clone the repository
 
-git clone https://majitobrinkitos.github.io/note-taking-app/
+git clone [https://majitobrinkitos.github.io/note-taking-app/](https://github.com/MajitoBrinkitos/frontend-note-app.git)
 
 # Navigate to the project directory
 
