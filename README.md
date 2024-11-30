@@ -41,9 +41,6 @@ git push origin master
 
 [https://majitobrinkitos.github.io/note-taking-app/](https://github.com/MajitoBrinkitos/frontend-note-app.git)
 
-## More support
- ### Installation
-
  ## Installation
 
 Instructions on how to install and set up the project.
