@@ -39,7 +39,7 @@ git push origin master
 
 ##Webiste hosted in
 
-https://majitobrinkitos.github.io/note-taking-app/
+[https://majitobrinkitos.github.io/note-taking-app/](https://github.com/MajitoBrinkitos/frontend-note-app.git)
 
 ##More support
  ###Installation
