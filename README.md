@@ -1,11 +1,11 @@
 ![Screenshot 2024-08-18 235226](https://github.com/user-attachments/assets/96e2d77b-548c-48f4-979d-f958a11f2a10)
 
 
-#Note and Go
+# Note and Go
 
 A minimalist note-taking app
 
-##Project Organization
+## Project Organization
 
 project-root/
 │
@@ -26,23 +26,23 @@ project-root/
 ├── README.md           # Project documentation
 └── .gitignore          # Files and directories to ignore in Git
 
-##Clone the repository
+## Clone the repository
 
 git clone https://github.com/your-username/my-website.git
 
-##Commit and Push changes to GitHub
+## Commit and Push changes to GitHub
 
 cd note-taking-app
 git add .
 git commit -m "Add website files"
 git push origin master
 
-##Webiste hosted in
+## Webiste hosted in
 
 [https://majitobrinkitos.github.io/note-taking-app/](https://github.com/MajitoBrinkitos/frontend-note-app.git)
 
-##More support
- ###Installation
+## More support
+ ### Installation
 
  ## Installation
 
